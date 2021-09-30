@@ -9,6 +9,7 @@ Build on config branch
 4. movestack
 5. center
 6. attachbottom
+7. xrdb
 
 **Dependencies:**
 Check currently used fonts in config.def.h
