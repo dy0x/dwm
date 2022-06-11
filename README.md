@@ -1,6 +1,6 @@
 ### Dylrex's patched build of Suckless DWM
 
-Build on config branch
+Build on config branch.
 
 **Patches:**
 1. systray
@@ -12,4 +12,9 @@ Build on config branch
 7. xrdb
 
 **Dependencies:**
-Check currently used fonts in config.def.h
+- Check currently used fonts in config.def.h
+- libxft-bgra on the aur for coloured emojis
+
+```
+paru -S libxft-bgra-git
+```
