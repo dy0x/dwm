@@ -1,6 +1,6 @@
 ### Dylrex's patched build of Suckless DWM
 
-Build on config branch
+Build on config branch.
 
 **Patches:**
 1. systray
