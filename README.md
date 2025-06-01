@@ -1,4 +1,4 @@
-### Dylrex's patched build of Suckless DWM
+### Dy0x's patched build of Suckless DWM
 
 Build on config branch.
 
